@@ -1,2 +1,2 @@
 # QA-Automation-Framework
-Playwright + Selenium automation framework in Python
+Playwright automation framework in Python
